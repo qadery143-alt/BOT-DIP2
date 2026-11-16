@@ -474,4 +474,3 @@ async def main() -> None:
 if __name__ == "__main__":
     with suppress(KeyboardInterrupt):
         asyncio.run(main())
-    
